@@ -1,5 +1,7 @@
 # Free LLM API Research
 
+**🌐 [English](README.md) | [简体中文](README.zh-CN.md)**
+
 Research notes and capability test reports on **free / low-cost LLM APIs** (collected September 2026), based on real HTTP probing from an Android device running DeepSeek Harness.
 
 **All API keys and secrets have been redacted (`<REDACTED>`).**
